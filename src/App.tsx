@@ -1,9 +1,7 @@
+import { GameCanvas } from "./components/GameCanvas";
+
 function App() {
-  return (
-    <>
-      <span className="bg-red-400">RPG Game</span>
-    </>
-  );
+  return <GameCanvas />;
 }
 
 export default App;
