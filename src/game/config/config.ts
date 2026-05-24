@@ -8,7 +8,7 @@ export const gameConfig: Phaser.Types.Core.GameConfig = {
 
   parent: "game-container",
 
-  backgroundColor: "#000",
+  backgroundColor: "#fff",
 
   pixelArt: true,
 
